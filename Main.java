@@ -1,63 +1,58 @@
+import java.util.Scanner;
+
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
 
-        // Примитивные типы
-        //int intValue = 10;
-        //byte byteValue = 100;
-        //short shortValue = 500;
-        //long longValue = 100000L;
-        //float floatValue = 3.14f;
-        //double doubleValue = 2.71828;
-        //char charValue = 'A';
-        //boolean booleanValue = true;
-
-        // Не примитивные типы (объекты)
-        //String stringValue = "Привет, мир!";
-        //Integer integerValue = 42;
-        //Double doubleObjectValue = 3.14159;
-        //Character charObjectValue = 8;
-        //Boolean booleanObjectValue = false;
-
-        //Вывести их результат в консоль:
-//        int intValue = 89;
-//        byte byteValue = 4;
-//        short shortValue = 56;
-//        long longValue = 12121L;
-//        float floatValue = 4.7333436f;
-//        double doubleValue = 4.355453532;
-//        char charValue = 'G';
+//        String str = new String("I study Basic Java!");
 //
-//        System.out.println("char: " + charValue);
-//        System.out.println("int: " + intValue);
-//        System.out.println("byte: " + byteValue);
-//        System.out.println("short: " + shortValue);
-//        System.out.println("float: " + floatValue);
-//        System.out.println("double: " + doubleValue);
-//        System.out.println("long: " + longValue);
-
-        //Дано трехзначное число. Вывести на экран все цифры этого числа
-        //Пример: 345
-        //Вывод в консоль: Число 345 -> 3, 4, 5
-
-//        int number = 345;
+//        int length = str.length();
+//        char preLastChar = str.charAt(length - 2);
+//        System.out.println("Пред-последний символ: " + preLastChar);
 //
-//        System.out.print("Число " + number + " -> ");
 //
-//        // Получаем первую цифру числа
-//        int firstDigit = number / 100;
-//        System.out.print(firstDigit);
+//        boolean containsJava = str.contains("Java");
+//        System.out.println("Содержит подстроку : " + containsJava);
 //
-//        // Получаем вторую цифру числа
-//        int secondDigit = (number / 10) % 10;
-//        System.out.print(", " + secondDigit);
 //
-//        // Получаем третью цифру числа
-//        int thirdDigit = number % 10;
-//        System.out.println(", " + thirdDigit);
+//        String substring = str.substring(str.indexOf("Java"), str.indexOf("Java") + 4);
+//        System.out.println("Вырезанная строка : " + substring);
+//
+//
+//        String replacedString = str.replace('a', 'o');
+//        System.out.println("Строка после замены символов: " + replacedString);
+//
+//
+//        String upperCaseString = str.toUpperCase();
+//        System.out.println("Строка в верхнем регистре: " + upperCaseString);
+//
+//
+//        String lowerCaseString = str.toLowerCase();
+//        System.out.println("Строка в нижнем регистре: " + lowerCaseString);
+
+//        Создайте программу, в которой нужно ввести 2 параметра, сделайте  операции с математическими операциями +, -, *, /
+//        Результат распечатайте в консоль
 
 
+//        Scanner scanner = new Scanner(System.in);
+//
+//        System.out.print("Введите первое число: ");
+//        double number1 = scanner.nextDouble();
+//
+//        System.out.print("Введите второе число: ");
+//        double number2 = scanner.nextDouble();
+//
+//        double sum = number1 + number2;
+//        double difference = number1 - number2;
+//        double product = number1 * number2;
+//        double quotient = number1 / number2;
+//
+//        System.out.println("+: " + sum);
+//        System.out.println("-: " + difference);
+//        System.out.println("*: " + product);
+//        System.out.println("/: " + quotient);
 
+
+        }
     }
-}
