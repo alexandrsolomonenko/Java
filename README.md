@@ -6,3 +6,4 @@
 -[Homework29082023] (https://github.com/alexandrsolomonenko/Java/blob/126f460b0b907afad002f94628231d2ce766d410/homework/HW29082023.java);
 -[Homework05092023] -- Task1(https://github.com/alexandrsolomonenko/Java/blob/fba8646f27a6adaf4cf002394270417f2ff2dec4/homework/homework05092023Task1.java) -- Task2(https://github.com/alexandrsolomonenko/Java/blob/fba8646f27a6adaf4cf002394270417f2ff2dec4/homework/homework05092023Task2.java) --Task3(https://github.com/alexandrsolomonenko/Java/blob/fba8646f27a6adaf4cf002394270417f2ff2dec4/homework/homework05092023Task3.java);
 -[Homework07092023] -- (https://github.com/alexandrsolomonenko/Java/blob/f5417bed55882ad56c905177a2161cf0fdf3d227/homework/HW07092023.java);
+-[Homework14092023] -- (https://github.com/alexandrsolomonenko/Java/blob/e384b73b3ce398027a23e4b125874071d61ae0d9/homework/HomeWork14092023.java);
